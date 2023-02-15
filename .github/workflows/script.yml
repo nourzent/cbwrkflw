@@ -1,4 +1,4 @@
-nama: 'coba workflow'
+name: 'coba workflow'
 on: [push]
 jobs:
  liat-versi-pm2:
